@@ -1,0 +1,39 @@
+#signup {
+    height:50px;
+    width: 15%;
+    font-size: 20px;
+    font-style: italic;
+    color:rgb(255, 0, 0);
+    background-color: rgb(0, 217, 255);
+    text-align: center;
+}
+#login {
+    height:50px;
+    width: 15%;
+    font-size: 20px;
+    font-style:italic;
+    color:rgb(0, 34, 255);
+    background-color: rgb(255, 174, 0);
+    text-align: center;
+   
+}
+h1 {
+    color: aliceblue;
+}
+#help {
+    background-color: aquamarine;
+    color: blue;
+    width: 10%;
+    height: 60px;
+    font-size:20px ;
+}
+#rules {
+    background-color: rgb(219, 255, 127);
+    color: rgb(255, 0, 0);
+    width: 10%;
+    height: 60px;
+    font-size:20px ;
+    
+   
+}
+
